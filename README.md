@@ -12,7 +12,7 @@ I am a dedicated professional passionate about leveraging geospatial technology 
 
 * **GIS Software:** QGIS, ArcGIS Pro/ArcMap, and Google Earth Engine (GEE).
 * **Analysis:** Spatial & Remote Sensing, Raster/Vector Processing, and Geostatistical Analysis.
-* **Programming & Data:** Python (GeoPandas, Rioxarray), SQL, and Database Management.
+* **Programming & Data:** Python (GeoPandas), SQL, and Database Management.
 * **Field Expertise:** GPS data collection, Hydrological Modelling, and Environmental Monitoring.
 * **Academic Achievement:** Secured **All India Rank (AIR) 246** in the GATE Geomatics Engineering (GE) paper.
 
