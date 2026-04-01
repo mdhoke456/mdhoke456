@@ -40,7 +40,7 @@ I am a dedicated professional passionate about leveraging geospatial technology 
 - **I’m currently learning**: Advanced SAR data processing and Python-based automation for satellite imagery.
 - **Ask me about**: Flood susceptibility modelling, AHP analysis, GIS and Remote Sensing.
 
-###  How to reach me**
+###  How to reach me
 
 - [LinkedIn](https://in.linkedin.com/in/mayureshdhoke) 
 - [Email](mailto:mayureshdhoke456@gmail.com)
