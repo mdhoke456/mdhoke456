@@ -20,10 +20,27 @@ I am a dedicated professional passionate about leveraging geospatial technology 
 
 ###  Highlighted Projects
 
-####  **Geospatial Modelling of Flood Susceptibility**
-* Developed a susceptibility model for the **Savitri River Basin** using the **Analytic Hierarchy Process (AHP)**.
-* Integrated hydrological, topographical, and LULC data using QGIS and GEE.
-* Validated results against historical High Flood Level (HFL) data from the Central Water Commission.
+## 🗺️ Featured Spatial Projects
+
+<table border="0">
+  <tr>
+    <!-- Left Column: Map Image -->
+    <td width="50%" align="center">
+      <a href="[LINK_TO_YOUR_PROJECT_REPO](https://github.com/mdhoke456/mdhoke456/assets)">
+        <img src="assets/Flood_inundation2.png" width="100%" alt="Flood Susceptibility Map">
+      </a>
+    </td>
+    <!-- Right Column: Project Details -->
+    <td width="50%">
+      <h3><a href="LINK_TO_YOUR_PROJECT_REPO">Flood Susceptibility Analysis: Savitri River Basin</a></h3>
+      <p>Modeled a spatial flood susceptibility model using multi-criteria GIS and AHP, integrating hydrological, topographical, and LULC data via QGIS, ArcMap, and Google Earth Engine.</p>
+      <p>Validated predictive accuracy by cross-referencing model outputs with historical High Flood Level (HFL) records from the Central Water Commission.</p>
+      <p><b>Tools:</b> <code>QGIS</code> <code>ArcMap</code> <code>GEE</code> <code>AHP Framework</code></p>
+    </td>
+  </tr>
+  
+  <!-- Add a second <tr> row here for your next project -->
+</table>
 
 ####  **IIT Bombay - FOSSEE GIS Internship**
 * Currently working on a pilot study for **Pune City** involving the sustainable disposal and resource recovery of Plaster of Paris (PoP) Ganapati idols.
