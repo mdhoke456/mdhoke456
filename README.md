@@ -43,7 +43,7 @@ I am a dedicated professional passionate about leveraging geospatial technology 
 </table>
 
 ####  **IIT Bombay - FOSSEE GIS Internship**
-* Currently working on a pilot study for **Pune City** involving the sustainable disposal and resource recovery of Plaster of Paris (PoP) Ganapati idols.
+* Currently working on a pilot study for **Pune City** involving "A GIS-Based Approach to Mapping Water Quality in Pune Using Nemerov Index by IDW Interpolation" during Ganapati festival.
 
 ####  **Watershed Organisation Trust (WOTR)**
 * Conducted extensive well inventory surveys (100+ wells) and collected GPS data across Maharashtra and Odisha.
